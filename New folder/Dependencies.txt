@@ -1,0 +1,4 @@
+First download GhostScript from "https://www.ghostscript.com/download/gsdnld.html" and install it and add the path "C:\Program Files\gs\gs9.54.0\bin" 
+to system environment variables path. 
+
+After that install nltk library for python by simply entering "pip install -U nltk" in cmd. 
